@@ -1,9 +1,10 @@
-#!/bin/bash
 #include<stdio.h>
+
+
 /**
- * main - Entry point
- *
- * Return: Always 0 (success)
+ * main - prints "progamming is like building a multilingual 
+ * puzzle, followed by a newline."
+ * Return 0
  */
 int main(void)
 {
