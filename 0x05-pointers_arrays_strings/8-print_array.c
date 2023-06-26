@@ -2,7 +2,7 @@
 
 /**
  * print_array - a function that ptints n elements of an array
- * @s: array name
+ * @a: array name
  * @n: is the number of elemnts OF the array to be printed
  * Return: return a and n inputs
  */
